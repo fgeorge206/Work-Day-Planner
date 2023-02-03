@@ -8,6 +8,7 @@ No installation is required for this project. Here is a link to the deployed app
 
 ## Usage
 ![](assets\Work-Day-Planner.png)
+A user can use this application to track their 9-5 day. Add a task and click the save icon to save in local storage.
 
 ## Credits
 None
