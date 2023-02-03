@@ -3,7 +3,7 @@
 ## Description
 This is a word day planner that implements local storage to store the data the user provides. This helps users keep track of their day. This is done using JavaScript, jQuery, and the DayJS library.
 
-![screenshot of the application](assets\images\work-day-planner.png)
+![screenshot of the application](assets\image\work-day-planner.png)
 
 ## Installation
 No installation is required for this project. Here is a link to the deployed application: https://fgeorge206.github.io/Work-Day-Planner/
